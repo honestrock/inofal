@@ -1,0 +1,34 @@
+Açıklama
+===========
+Bu uygulama içersinde Mongo db ye crud işlemleri ve kendime özgü geliştirdiğim prosedür 
+
+ile çalışabilir bir ORM yapısı mevcuttur. 
+
+Ana Controller sınıfı UserController dır , burdan başlıyarak debug edildiğinde uygulama kolayca
+anlaşılabilir
+
+
+Kullandığım ekstra Ana kütüphane
+========
+
+Mysql bağlantı kütüphanesi olarak ,BoneCp kullanıyorum daha hızlı .
+
+
+Çalışıtırılan Uygulama Server ı
+========
+
+Apache tomcat 7.0.64 sürümlü server üzerinde yürütüldü
+
+MYSQL DUMP
+========
+
+Aldığım dumpı proje içersine dump klasörünün içersine yükliyeceğim.
+
+Konfigurasyon
+========
+
+spring.properties dosyasının içersindeki konfigurasyonları kendi bilgisayarınıza göre yapmanız
+gerekmektedir.
+
+
+
